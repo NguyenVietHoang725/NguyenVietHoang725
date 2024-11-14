@@ -4,7 +4,7 @@
 
 | | |
 | - | - |
-|Full Name      |Nguyen Viet Hoang (Jimmie/Hairy)|
+|Full Name      |Nguyen Viet Hoang (Jimmie/Hary)|
 |Birthday       | 07/02/2005 |
 |Location           | Ha Noi Capital, Viet Nam|
 |Profession     | Self-taught Game Developer & Game Designer|
