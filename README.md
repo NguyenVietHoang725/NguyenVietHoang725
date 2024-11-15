@@ -2,38 +2,18 @@
 
 ## <p align="center"> ABOUT ME </p>
 
-<div style="display: flex; align-items: center;">
+<img align="right" src="NVH.png" width=240>
 
-  <img align="right" src="NVH.png" width=240>
+| | |
+| - | - |
+|Full Name      |Nguyen Viet Hoang (Jimmie/Hary)|
+|Birthday       | 07/02/2005 |
+|Location           | Ha Noi Capital, Viet Nam|
+|Profession     | Self-taught Game Developer & Game Designer|
+|University |    University of Transport and Communications|
+|Hobbies         | Listening to music, Coding, Drawing, Playing games, ...   |
+| | |
 
-  <table>
-    <tr>
-      <td><strong>Full Name</strong></td>
-      <td>Nguyen Viet Hoang (Jimmie/Harry)</td>
-    </tr>
-    <tr>
-      <td><strong>Birthday</strong></td>
-      <td>07/02/2005</td>
-    </tr>
-    <tr>
-      <td><strong>Location</strong></td>
-      <td>Ha Noi Capital, Viet Nam</td>
-    </tr>
-    <tr>
-      <td><strong>Profession</strong></td>
-      <td>Self-taught Game Developer & Game Designer</td>
-    </tr>
-    <tr>
-      <td><strong>University</strong></td>
-      <td>University of Transport and Communications</td>
-    </tr>
-    <tr>
-      <td><strong>Hobbies</strong></td>
-      <td>Listening to music, Coding, Drawing, Playing games, ...</td>
-    </tr>
-  </table>
-
-</div>
 
 ##
 
