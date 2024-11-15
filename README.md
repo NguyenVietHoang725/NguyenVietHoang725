@@ -1,4 +1,4 @@
-## <p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=23&pause=200&color=368BF7&multiline=true&width=435&height=70&lines=Hello%2C+I'm+Hairy+%F0%9F%AB%A1;Welcome+to+my+Github+%F0%9F%A5%B3)](https://git.io/typing-svg)</p>
+## <p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Faculty+Glyphic&size=25&pause=1000&multiline=true&width=435&height=90&lines=Hello%2C+I'm+Harry+%F0%9F%98%B8;Welcome+to+my+Github+%F0%9F%8C%B8)](https://git.io/typing-svg)</p>
 
 ## <p align="center"> ABOUT ME </p>
 
