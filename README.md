@@ -4,12 +4,12 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="https://example.com/your-image.png" alt="Ảnh đại diện" width="150" style="margin-right: 20px;">
+  <img align="right" src="NVH.png" width=240>
 
   <table>
     <tr>
       <td><strong>Full Name</strong></td>
-      <td>Nguyen Viet Hoang (Jimmie/Hary)</td>
+      <td>Nguyen Viet Hoang (Jimmie/Harry)</td>
     </tr>
     <tr>
       <td><strong>Birthday</strong></td>
