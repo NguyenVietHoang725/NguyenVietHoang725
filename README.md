@@ -1,14 +1,14 @@
+##
+
 ## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&duration=3500&pause=749&color=60B5FF&vCenter=true&multiline=true&width=580&height=75&lines=%F0%9F%83%8F+Jack+of+some+trades%2C+master+of+none+%F0%9F%83%8F;%E2%9C%A8+But+give+me+a+keyboard+and+we%E2%80%99ll+see+%3AD+%E2%9C%A8)](https://git.io/typing-svg) </p>
 
-## <p align="center">
-
-<img src="Nintendo Mario GIF.gif" width="20" height="20" />
-
-ABOUT ME 
-
-<img src="Nintendo Mario GIF.gif" width="20" height="20" />
-
+<p align="center">
+  <img src="images/Nintendo Mario GIF.gif" width="25" height="25" style="vertical-align: middle; margin-right: 10px;" />
+  <strong><span style="font-size: 20px;"> &nbsp;&nbsp; ABOUT ME &nbsp;&nbsp; </span></strong>
+  <img src="images/Nintendo Mario GIF.gif" width="25" height="25" style="vertical-align: middle; margin-left: 10px;" />
 </p>
+
+##
 
 <img align="right" src="NVH.png" width=240>
 
