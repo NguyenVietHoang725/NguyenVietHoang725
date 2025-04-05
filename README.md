@@ -1,6 +1,14 @@
-## <p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Faculty+Glyphic&size=25&pause=1000&multiline=true&width=435&height=90&lines=Hello%2C+I'm+Harry+%F0%9F%98%B8;Welcome+to+my+Github+%F0%9F%8C%B8)](https://git.io/typing-svg)</p>
+## <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&duration=3500&pause=749&color=60B5FF&vCenter=true&multiline=true&width=580&height=75&lines=%F0%9F%83%8F+Jack+of+some+trades%2C+master+of+none+%F0%9F%83%8F;%E2%9C%A8+But+give+me+a+keyboard+and+we%E2%80%99ll+see+%3AD+%E2%9C%A8)](https://git.io/typing-svg) </p>
 
-## <p align="center"> ABOUT ME </p>
+## <p align="center">
+
+<img src="Nintendo Mario GIF.gif" width="20" height="20" />
+
+ABOUT ME 
+
+<img src="Nintendo Mario GIF.gif" width="20" height="20" />
+
+</p>
 
 <img align="right" src="NVH.png" width=240>
 
