@@ -2,24 +2,35 @@
 
 ## <p align="center"> 🌊 ABOUT ME 🌊 </p>
 
-<img align="right" src="NVH.png" width=240>
+<img align="right" src="images/NVH.png" width=225>
 
 | | |
 | - | - |
-|📛 Full Name      |Hoang Nguyen Viet (Harry Cain)|
+|📛 Full Name      | Hoang Nguyen Viet (Harry Cain)|
 |🎂 Birthday       | 07/02/2005 |
-|📍 Location           | Ha Noi Capital, Viet Nam|
+|📍 Location       | Ha Noi Capital, Viet Nam|
 |👜 Profession     | Self-taught Game Developer & Game Designer|
-|🎓 University |    University of Transport and Communications|
-|🎲 Hobbies         | Listening to music, Coding, Drawing, Playing games, ...   |
+|🎓 University     | University of Transport and Communications|
+|🎲 Hobbies        | Listening to music, Coding, Drawing, Playing games, ...   |
 | | |
-
 
 ##
 
-## 👨‍💻 Version Control
+<p align="center">
+  <img src="images/download.gif" alt="minimoss gif" />
+</p>
+
+<p align="center">
+  Source: <a href="https://i.pinimg.com/originals/54/e1/d6/54e1d64489baf626c6f3c93de93b6913.gif">Original GIF</a>
+</p>
+
+##
+
+### 👨‍💻 Version Control
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+##
 
 ### My Tech Stack
 #### ✍️ Skills
@@ -31,13 +42,9 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 
 #### Working with
-![Visual studio](https://img.shields.io/badge/Visual%20studio-2A1B3F?logo=visual+studio&logoColor=975fdc&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+##
 
 ### 🥰 You can reach me at
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/huang.high.3/)
@@ -68,6 +75,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenVietHoang725&icon=5&color=1)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenVietHoang725/NguyenVietHoang725/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenVietHoang725/NguyenVietHoang725/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NguyenVietHoang725/NguyenVietHoang725/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31k5bv2wdprss6umgkgpwyqpqwtm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5bv2wdprss6umgkgpwyqpqwtm&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
