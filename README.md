@@ -24,6 +24,12 @@
   Source: <a href="https://i.pinimg.com/originals/54/e1/d6/54e1d64489baf626c6f3c93de93b6913.gif">Original GIF</a>
 </p>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/31k5bv2wdprss6umgkgpwyqpqwtm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5bv2wdprss6umgkgpwyqpqwtm&count=5&width=720&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
 ##
 
 ### 👨‍💻 Version Control
@@ -80,14 +86,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenVietHoang725/NguyenVietHoang725/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NguyenVietHoang725/NguyenVietHoang725/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31k5bv2wdprss6umgkgpwyqpqwtm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k5bv2wdprss6umgkgpwyqpqwtm&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
